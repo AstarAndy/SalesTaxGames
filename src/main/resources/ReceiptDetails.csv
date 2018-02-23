@@ -1,4 +1,4 @@
-ReceiptMbr,Qty,ProductType,Imported,Desc,Price
+ReceiptNbr,Qty,ProductType,Imported,Desc,Price
 1,1,Book,false,book,12.49
 1,1,Music,false, music CD,14.99
 1,1,Food,false,chocolate bar,0.85
@@ -8,4 +8,3 @@ ReceiptMbr,Qty,ProductType,Imported,Desc,Price
 3,1,Other,false,bottle of perfume,18.99
 3,1,Medical,false,packet of headache pills,9.75
 3,1,Food,true,box of imported chocolates,11.25
-Book, Food, Medical
